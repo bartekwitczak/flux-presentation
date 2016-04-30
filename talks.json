@@ -1,0 +1,26 @@
+module.exports = [
+    {
+        "id": 1,
+        "title": "Learning modern JavaScript without node.js",
+        "description": "People have mixed feelings about JavaScript (me included)",
+        "speaker": "Jakub Marchwicki"
+    },
+    {
+        "id": 2,
+        "title": "Technical Debt demystified and simply explained",
+        "description": "It's time to demystify this little monster hidden in our codebase.",
+        "speaker": "Patroklos Papapetrou"
+    },
+    {
+        "id": 3,
+        "title": "PrivateEye",
+        "description": "In this talk we will sleuth into what is privateeye.",
+        "speaker": "Greg Young"
+    },
+    {
+        "id": 4,
+        "title": "Greenfield effect: Patterns for Effective Disaster Delivery",
+        "description": "How does that happen that codebase so lean at start, end up as catastrophe?",
+        "speaker": "Julian Warszawski"
+    }
+ ];
