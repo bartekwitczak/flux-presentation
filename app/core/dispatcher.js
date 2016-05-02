@@ -1,5 +1,8 @@
 const Dispatcher = require('flux').Dispatcher;
 
 module.exports = {
-    dispatcher: new Dispatcher()
+    dispatcher: new Dispatcher(),
+    create: function() {
+        return new Dispatcher();
+    }
 };
